@@ -1,3 +1,3 @@
 # ItCraft
-![Иллюстрация к проекту](https://github.com/Sirojjjka/ItCraf/src/images/screen1.png)
+![alt png](https://github.com/Sirojjjka/ItCraft/raw/main/src/images/screen2.PNG)
 ![img alt](https://github.com/Sirojjjka/ItCraft/raw/main/src/images/screen2.png)
